@@ -1,6 +1,6 @@
-int mijngetal = 22;
-  
-if(mijngetal >= 3 && mijngetal < 20 && mijngetal ==12 ){
+int mijngetal = 20;
+ 
+if(mijngetal >= 0 && mijngetal < 20 && mijngetal != 12 ){
 println("je hebt een groot voorhoofd.");
 
 }else{ if(mijngetal >= 20)
